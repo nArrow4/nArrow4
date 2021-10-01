@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ![nArrow4's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=nArrow4&show_icons=true&count_private=true&theme=gotham)
 
-![nArrow4's GitHub stats](https://github-readme-stats.vercel.app/api?username=nArrow4)](https://github.com/anuraghazra/github-readme-stats)
+![nArrow4's GitHub stats](https://github-readme-stats.vercel.app/api?username=nArrow4)
