@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### Introduction
 
 - 🔭 I'm currently working in LangYa, HUST.
-- 🌱 I’m currently learning SLAM, CV.
+- 🌱 I’m currently learning SLAM, CV, Robotics.
 - 📫 How to reach me: zhiyyyu@gmail.com
 
 #### Details
