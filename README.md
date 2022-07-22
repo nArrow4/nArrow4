@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 #### Introduction
 
 - 🔭 I'm currently working in LangYa, HUST.
-- 🌱 I’m currently learning Backend, CN, OS, CV, Robotics.
-- 📫 How to reach me: zhiyyyu@gmail.com
+- 🌱 I’m currently learning Backend, CV, Robotics.
+- 📫 How to reach me: zhiyyyu@gmail.com.
 
 #### Details
 
